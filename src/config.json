@@ -42,7 +42,7 @@
 	},
 	"Links": {
 		"server": "https://discord.gg/its-community-917580196251594815",
-		"invite": "https://discord.com/api/oauth2/authorize?client_id=<BOTID>&permissions=138042273056&scope=bot%20applications.commands",
+		"invite": "https://discord.com/api/oauth2/authorize?client_id=1203871073964396624&permissions=138042273056&scope=bot%20applications.commands",
 		"website": ""
 	},
 	"emojis": {
