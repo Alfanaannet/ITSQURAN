@@ -5,7 +5,7 @@ app.get('/', (req, res) => {
   res.send('Hello Express app!')
 })
 
-app.listen(5050)
+//app.listen(5050)
 const [test] = process.argv.slice(2);
 const buildStructure = require('./structure');
 let num = 0;
