@@ -3,9 +3,9 @@
 		"nodes": [
 			{
 				"identifier": "MindServer",
-				"host": "lava.link",
-				"port": 80,
-				"password": "CorwinDev"
+				"host": "eu-lavalink.lexnet.cc",
+				"port": 443,
+				"password": "lexn3tl@val!nk"
 			}
 		],
 		"BOT_TOKEN": "",
